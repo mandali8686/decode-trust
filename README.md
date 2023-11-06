@@ -42,7 +42,7 @@ __Capacities__
 
 <img width="674" alt="Screen Shot 2023-11-05 at 7 39 35 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/fdfc604d-0cf7-452b-91a6-2d3d4cc5f587">
 
-3)**Design of challenging user prompts**
+3) **Design of challenging user prompts**
 
 <img width="677" alt="Screen Shot 2023-11-05 at 7 42 53 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/c559c0a5-b5fe-400b-88ed-0dc492d6b077">
 
