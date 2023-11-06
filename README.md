@@ -5,6 +5,8 @@ __Introduction__
 This paper extensive evaluation of the trustworthiness of the latest large language models, particularly GPT-3.5 and GPT-42. The study aims to assess their capabilities and limitations by using a range of benchmarks to measure performance and test resilience against adversarial conditions. Key areas of evaluation include the models' ability to avoid generating toxic content, perpetuation of stereotypes, robustness against adversarial and out-of-distribution data, and their capacity to maintain privacy, ethics, and fairness. The methodology incorporates standard benchmarks, custom datasets, and adversarially crafted prompts. Through rigorous testing, the paper seeks to produce reproducible results that reveal the strengths and weaknesses of these models, contributing to the advancement of reliable, unbiased, and transparent language models that uphold high standards of trustworthiness.
 
 __Capacities__
+
+
 <img width="800" alt="Screen Shot 2023-11-05 at 6 38 09 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/631ee10f-1f26-476b-9edb-c1fbe113e525">
 
 <img width="800" alt="Screen Shot 2023-11-05 at 6 39 15 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/734f9d02-a368-45bc-b179-87f766fffb22">
