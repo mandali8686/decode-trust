@@ -1,5 +1,8 @@
 **DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models**
 
+__Introduction__
+This paper extensive evaluation of the trustworthiness of the latest large language models, particularly GPT-3.5 and GPT-42. The study aims to assess their capabilities and limitations by using a range of benchmarks to measure performance and test resilience against adversarial conditions. Key areas of evaluation include the models' ability to avoid generating toxic content, perpetuation of stereotypes, robustness against adversarial and out-of-distribution data, and their capacity to maintain privacy, ethics, and fairness. The methodology incorporates standard benchmarks, custom datasets, and adversarially crafted prompts. Through rigorous testing, the paper seeks to produce reproducible results that reveal the strengths and weaknesses of these models, contributing to the advancement of reliable, unbiased, and transparent language models that uphold high standards of trustworthiness.
+
 **Toxicity.** To evaluate how well GPT models avoid generating toxic content.
 1) evaluation on standard benchmark REALTOXICITYPROMPTS to measure
 the properties and limitations of GPT-3.5 and GPT-4 compared to existing LLM counterparts;
