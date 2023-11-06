@@ -194,6 +194,14 @@ __Capacities__
 
 
 **Machine Ethics**
+1. standard benchmarks ETHICS and Jiminy Cricket
+   
+2.  jailbreaking prompts that are designed to mislead GPT models
+  
+3.  authors’ generated evasive sentences that are designed to mislead GPT models
+   
+4.  conditional actions that encompass different attributes (self-harm vs harm to others)
+
 
 1) **Evaluation on standard machine ethics benchmarks**
 
