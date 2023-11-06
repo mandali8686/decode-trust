@@ -36,9 +36,14 @@ the existing benchmarks.
 <img width="800" alt="Screen Shot 2023-11-05 at 7 05 09 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/b948e089-c2e8-4509-9acf-ab0c89d0eae4">
 <img width="675" alt="Screen Shot 2023-11-05 at 7 05 39 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/ff0c1b50-613c-4cb6-b7b5-27c193205474">
 
-2) Diverse System
+2) **Diverse System**
 <img width="900" alt="Screen Shot 2023-11-05 at 7 33 45 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/59346089-2f37-4721-a0bb-ffc98dedb7d0">
 
+**Comparison between GPT-3.5 and GPT-4**
+
 <img width="900" alt="Screen Shot 2023-11-05 at 7 34 08 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/24885998-dd68-469a-a973-9cd4c30b09d4">
+
+<img width="674" alt="Screen Shot 2023-11-05 at 7 39 35 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/fdfc604d-0cf7-452b-91a6-2d3d4cc5f587">
+
 
 
