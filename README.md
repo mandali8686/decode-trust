@@ -95,7 +95,7 @@ __Capacities__
 
 **Out-of-distribution robustness**
 
-**OOD Style**
+1) **OOD Style**
 
 
 <img width="702" alt="Screen Shot 2023-11-05 at 8 31 26 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/25481c26-23e1-4825-948e-12fac96d6bcb">
@@ -106,7 +106,7 @@ __Capacities__
 
 <img width="698" alt="Screen Shot 2023-11-05 at 8 32 46 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/55d6ae6c-7087-4902-9397-ffcaef93a5a1">
 
-**OOD Knowledge**
+2) **OOD Knowledge**
 
 
 <img width="686" alt="Screen Shot 2023-11-05 at 8 33 06 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/81311677-5f83-4a2d-9eb0-690e17df1167">
@@ -115,7 +115,7 @@ __Capacities__
 
 <img width="669" alt="Screen Shot 2023-11-05 at 8 34 08 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/68fdb28b-7b38-4f56-a6ce-9343392d14eb">
 
-**Robustness on OOD demonstrations via in-context learning**
+3) **Robustness on OOD demonstrations via in-context learning**
 
 <img width="682" alt="Screen Shot 2023-11-05 at 8 34 51 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/80537315-03c0-4937-aaa9-ca0dba3a2659">
 
