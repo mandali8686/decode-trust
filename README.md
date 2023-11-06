@@ -47,5 +47,31 @@ the existing benchmarks.
 
 <img width="674" alt="Screen Shot 2023-11-05 at 7 39 35 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/fdfc604d-0cf7-452b-91a6-2d3d4cc5f587">
 
+3)**Design of challenging user prompts**
+
+<img width="677" alt="Screen Shot 2023-11-05 at 7 42 53 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/c559c0a5-b5fe-400b-88ed-0dc492d6b077">
+
+<img width="665" alt="Screen Shot 2023-11-05 at 7 43 17 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/f27308f2-6ab1-4d0f-807a-7e7fdec5a160">
+
+<img width="689" alt="Screen Shot 2023-11-05 at 7 43 34 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/fc6cfe21-a211-4e0b-9ea0-656f3fc540b0">
+
+<img width="634" alt="Screen Shot 2023-11-05 at 7 44 58 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/2450c5b2-d0d8-41ee-8a5d-d2e06536c54b">
+
+
+
+**Stereotypes Bias**
+
+<img width="673" alt="Screen Shot 2023-11-05 at 7 45 25 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/f0379215-1cc1-4e27-85ad-89126c0d8b57">
+
+
+<img width="872" alt="Screen Shot 2023-11-05 at 7 46 45 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/73e59e09-1bf1-4a48-8b9d-330c5919c44a">
+
+
+<img width="849" alt="Screen Shot 2023-11-05 at 7 47 12 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/f0dfe5c1-b596-46b1-837d-52ad1fe90d36">
+
+<img width="684" alt="Screen Shot 2023-11-05 at 7 47 33 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/fa923ac1-c8b5-43db-a292-099bc5ea5062">
+
+
+
 
 
