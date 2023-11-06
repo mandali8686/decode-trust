@@ -15,6 +15,13 @@ the existing benchmarks.
 
 <img width="800" alt="Screen Shot 2023-11-05 at 6 39 15 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/734f9d02-a368-45bc-b179-87f766fffb22">
 
+**Toxicity Test Design**
+
+
+<img width="708" alt="Screen Shot 2023-11-05 at 7 08 28 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/bad90fc4-fc8a-4837-b93f-fcf3b44173c2">
+
+
+
 **Toxicity Result**
 
 
