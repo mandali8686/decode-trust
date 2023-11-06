@@ -295,3 +295,8 @@ Question 2: What other concerns you may have for LLMs?
 
 While GPT-4 generally outperforms GPT-3.5 across various trustworthiness metrics, it is more susceptible to manipulation through precise instructions or adversarial prompts due to its advanced instruction-following capabilities. The study reveals that numerous input factors significantly influence trustworthiness, meriting further investigation. Future work is recommended to focus on multi-turn interactive evaluations, exploring the models' responses to misleading contexts, assessing their vulnerability to coordinated adversarial attacks, and domain-specific trustworthiness. There's an emphasis on developing verification methods to provide safety guarantees for LLMs, enhancing models with domain knowledge and reasoning, using game theory to ensure consistent and context-aware responses, and auditing models against specific user requirements for safety and trustworthiness.
 
+<h1>Code Source</h1>
+You can run the entire assessment at https://github.com/AI-secure/DecodingTrust
+
+
+
