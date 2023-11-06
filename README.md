@@ -299,4 +299,7 @@ While GPT-4 generally outperforms GPT-3.5 across various trustworthiness metrics
 You can run the entire assessment at https://github.com/AI-secure/DecodingTrust
 
 
+<h1>Reference</h1>
+Wang, B., Chen, W., Pei, H., Xie, C., Kang, M., Zhang, C., Xu, C., Xiong, Z., Dutta, R., Schaeffer, R., Truong, S. T., Arora, S., Mazeika, M., Hendrycks, D., Lin, Z., Cheng, Y., Koyejo, S., Song, D., & Li, B. (2023). DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models. arXiv preprint arXiv:2306.11698.
+
 
