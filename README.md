@@ -113,8 +113,6 @@ __Capacities__
 
 <img width="693" alt="Screen Shot 2023-11-05 at 8 33 23 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/0a7f48c0-1b31-4231-8475-7081c6ba504e">
 
-<img width="664" alt="Screen Shot 2023-11-05 at 8 33 38 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/72a0da55-ef9c-4212-82fe-5c02203b1579">
-
 <img width="669" alt="Screen Shot 2023-11-05 at 8 34 08 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/68fdb28b-7b38-4f56-a6ce-9343392d14eb">
 
 **Robustness on OOD demonstrations via in-context learning**
