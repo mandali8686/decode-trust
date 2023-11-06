@@ -181,6 +181,11 @@ __Capacities__
 
 **Privacy**
 
+1. the information extraction accuracy of sensitive information in pretraining data such as the Enron email dataset
+2. the information extraction accuracy of different types of Personally Identifiable Information (PII) introduced during the inference stage
+3. evaluating the information leakage rates
+
+
 <img width="569" alt="Screen Shot 2023-11-05 at 8 42 43 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/9375c56c-2e42-495a-9220-8500b240dabe">
 
 1) **Privacy leakage of training data**
