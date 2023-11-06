@@ -135,7 +135,11 @@ the existing benchmarks.
 
 <img width="670" alt="Screen Shot 2023-11-05 at 8 37 46 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/e5976b2c-1108-48b7-84c4-f718612cf7e4">
 
+
+
 <img width="629" alt="Screen Shot 2023-11-05 at 8 38 03 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/0585072c-b972-4091-81ae-c8cce60c864a">
+
+
 
 <img width="736" alt="Screen Shot 2023-11-05 at 8 38 39 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/2c6366d1-23ae-4994-a0c7-cfa91705b088">
 
@@ -146,6 +150,8 @@ the existing benchmarks.
 
 
 <img width="273" alt="Screen Shot 2023-11-05 at 8 39 30 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/4376bfe6-6d4f-461b-a723-6627fa0d1470">
+
+
 
 <img width="679" alt="Screen Shot 2023-11-05 at 8 39 48 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/cf683cf3-c93e-410b-bf1f-d717c6b814e9">
 
@@ -220,6 +226,8 @@ the existing benchmarks.
 <img width="229" alt="Screen Shot 2023-11-05 at 9 20 43 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/6584d375-c3c6-44af-adeb-4838190470cb">
 
 
+
+
 <img width="592" alt="Screen Shot 2023-11-05 at 9 20 56 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/a5321fd9-c94c-416b-b48b-67dd95554481">
 
 **Evaluation on Fairness**
@@ -237,4 +245,8 @@ the existing benchmarks.
 
 
 <img width="615" alt="Screen Shot 2023-11-05 at 9 22 18 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/04127cf5-12ab-4407-a746-c64fd4a4bc6a">
+
+**Conclusion**
+
+While GPT-4 generally outperforms GPT-3.5 across various trustworthiness metrics, it is more susceptible to manipulation through precise instructions or adversarial prompts due to its advanced instruction-following capabilities. The study reveals that numerous input factors significantly influence trustworthiness, meriting further investigation. Future work is recommended to focus on multi-turn interactive evaluations, exploring the models' responses to misleading contexts, assessing their vulnerability to coordinated adversarial attacks, and domain-specific trustworthiness. There's an emphasis on developing verification methods to provide safety guarantees for LLMs, enhancing models with domain knowledge and reasoning, using game theory to ensure consistent and context-aware responses, and auditing models against specific user requirements for safety and trustworthiness.
 
