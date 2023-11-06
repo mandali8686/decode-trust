@@ -17,7 +17,8 @@ __Capacities__
 <img width="800" alt="Screen Shot 2023-11-05 at 6 39 15 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/734f9d02-a368-45bc-b179-87f766fffb22">
 
 <h2>Disucussion Questions</h2>
-Questions 1: Why is trustworthiness-focused evaluation crucial for LLMs?
+<h4>Questions 1: Why is trustworthiness-focused evaluation crucial for LLMs?</h4>
+
 
 **Toxicity**
 
