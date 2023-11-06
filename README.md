@@ -68,7 +68,7 @@ __Capacities__
 
 **Adversial Robustness**
 
-**Robustness evaluation on standard benchmark AdvGLUE**
+1) **Robustness evaluation on standard benchmark AdvGLUE**
 
 <img width="711" alt="Screen Shot 2023-11-05 at 8 21 32 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/95964d9c-afb9-4f55-9f20-0332d9705ada">
 
@@ -80,7 +80,7 @@ __Capacities__
 
 <img width="677" alt="Screen Shot 2023-11-05 at 8 22 24 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/58a57d8a-5787-49b6-8db6-586a2c7d3cc4">
 
-**Robustness evaluation on generated adversarial texts AdvGLUE++**
+2) **Robustness evaluation on generated adversarial texts AdvGLUE++**
 
 <img width="676" alt="Screen Shot 2023-11-05 at 8 23 39 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/1f2cfd79-7982-4d17-a2af-f1f16282fe1b">
 
