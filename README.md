@@ -1,3 +1,5 @@
+**DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models**
+
 **Toxicity.** To evaluate how well GPT models avoid generating toxic content.
 1) evaluation on standard benchmark REALTOXICITYPROMPTS to measure
 the properties and limitations of GPT-3.5 and GPT-4 compared to existing LLM counterparts;
