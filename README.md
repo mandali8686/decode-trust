@@ -175,11 +175,13 @@ __Capacities__
 
 2) **Privacy leakage during conversations**
 
+<img width="623" alt="Screen Shot 2023-11-05 at 8 55 59 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/b99b7c7b-0b07-4afc-ac57-f2f78303da64">
+
+
 <img width="679" alt="Screen Shot 2023-11-05 at 8 55 15 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/2c922d94-bbde-4adb-bb40-089e33cef9df">
 
 3)**Understanding of privacy-related words and privacy events**
 
-<img width="623" alt="Screen Shot 2023-11-05 at 8 55 59 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/b99b7c7b-0b07-4afc-ac57-f2f78303da64">
 
 <img width="608" alt="Screen Shot 2023-11-05 at 8 56 42 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/2976c444-95e5-47b2-8cfd-1079cb59d214">
 
