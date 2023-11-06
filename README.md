@@ -1,4 +1,4 @@
-**DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models**
+<h1>**DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models**</h1>
 
 This repository contains overview, explanation, and examples of FlashAttention as outlined in the official paper: https://arxiv.org/abs/2306.11698
 
