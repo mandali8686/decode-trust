@@ -239,6 +239,10 @@ __Capacities__
 
 <img width="594" alt="Screen Shot 2023-11-05 at 9 02 22 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/8ab60756-afd0-41e7-92a5-5059f7e2f253">
 
+<h1>Reference</h1>
+
+Wang, B., Chen, W., Pei, H., Xie, C., Kang, M., Zhang, C., Xu, C., Xiong, Z., Dutta, R., Schaeffer, R., Truong, S. T., Arora, S., Mazeika, M., Hendrycks, D., Lin, Z., Cheng, Y., Koyejo, S., Song, D., & Li, B. (2023). DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models. arXiv preprint arXiv:2306.11698
+
 <img width="603" alt="Screen Shot 2023-11-05 at 9 18 27 PM" src="https://github.com/mandali8686/decode-trust/assets/100242191/717dc1d5-dab1-4e05-a9df-5ff776cc3edd">
 
 2) **Evaluation on jailbreaking prompts**
