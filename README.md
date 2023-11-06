@@ -20,6 +20,10 @@ __Capacities__
 <h4>Questions 1: Why is trustworthiness-focused evaluation crucial for LLMs?</h4>
 
 
+**Architecture Overview**
+
+
+<img width="593" alt="Screen Shot 2023-11-06 at 10 54 01 AM" src="https://github.com/mandali8686/decode-trust/assets/100242191/28263afa-d55d-40eb-9116-8dbc57cf5297">
 
 
 
