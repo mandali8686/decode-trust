@@ -1,6 +1,6 @@
 <h1>DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models</h1>
 
-This repository contains overview, explanation, and examples of FlashAttention as outlined in the official paper: https://arxiv.org/abs/2306.11698
+This repository contains overview, experiment and result of DECODINGTRUST as outlined in the official paper: https://arxiv.org/abs/2306.11698
 
 Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li
 
